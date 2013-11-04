@@ -35,7 +35,7 @@ class OwnController extends Controller
     }
 
     /**
-     * @Route("/first", name="_own")
+     * @Route("/third", name="_own")
      * @Template()
      */
     public function ownThirdAction()
