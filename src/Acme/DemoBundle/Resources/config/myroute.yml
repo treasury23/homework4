@@ -1,0 +1,11 @@
+_ownfirst:
+    pattern:  /ownfirst
+    defaults: { _controller: AcmeDemoBundle:Own:ownfirst }
+
+_ownsecond:
+    pattern:  /ownsecond
+    defaults: { _controller: AcmeDemoBundle:Own:ownsecond }
+
+_ownthird:
+    pattern:  /ownthird
+    defaults: { _controller: AcmeDemoBundle:Own:ownthird }
